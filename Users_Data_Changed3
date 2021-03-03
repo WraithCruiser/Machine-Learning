@@ -1,0 +1,22 @@
+#Finnaly corrected users data
+{
+  "id": 1337,
+  "name": "CaydeExo",
+  "password": "123456789",
+  "loginType": "Steam",
+  "game": "Destiny 2"
+}
+{
+  "id": 2280,
+  "name": "Shaudee0",
+  "password": "ThornIsBetter",
+  "loginType": "PlayStation Network",
+  "game": "Destiny 2"
+}
+{
+  "id": 2213,
+  "name": "MrMDX221",
+  "password": "AILOMG",
+  "loginType": "MDX-Network",
+  "game": "Destiny 2",
+}
